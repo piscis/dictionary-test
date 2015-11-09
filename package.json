@@ -1,0 +1,19 @@
+{
+  "name": "dictionary-test",
+  "private": true,
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexander Pirsig <self@pirsig.net>",
+  "license": "MIT",
+  "dependencies": {
+    "babel-core": "^6.1.2",
+    "babel-preset-es2015": "^6.1.2",
+    "babel-preset-stage-0": "^6.1.2",
+    "lodash": "^3.10.1"
+  }
+}

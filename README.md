@@ -1,8 +1,11 @@
 # dictionary-test
 Small string replacement test
 
-### Install
+#### Install dependencies:
    npm install
 
-### Start
+#### Start script:
    npm start
+
+##### Site note: 
+LONG LIVE VARDA .. LONG LIVE THE AINUR

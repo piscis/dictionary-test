@@ -1,5 +1,6 @@
 import _ from 'lodash';
 
+// YEAH I know but the second one is better 
 const dict = {
 'A':'6B',
 'B':'68',

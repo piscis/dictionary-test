@@ -5,7 +5,8 @@ Small string replacement test
    npm install
 
 #### Start script:
-   npm start
+   npm run first 
+   npm run second
 
-##### Site note: 
+##### Site note:
 LONG LIVE VARDA .. LONG LIVE THE AINUR
